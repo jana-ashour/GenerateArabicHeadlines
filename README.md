@@ -29,9 +29,8 @@ breaking-news style constrained to start with "عاجل:" ("Breaking:").
   original headlines
 - Each model is fine-tuned as a seq2seq task: article → structured output
   containing extracted facts plus all three headline styles
-- Evaluation via ROUGE and BLEU (SacreBLEU) against gold headlines on a held-
-  out test set
-- Qualitative comparison of generated vs. gold headlines across styles
+- Evaluation via ROUGE and BLEU 
+- Qualitative comparison 
 
 ## Findings
 
