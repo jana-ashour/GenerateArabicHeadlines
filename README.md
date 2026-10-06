@@ -18,7 +18,7 @@ breaking-news style constrained to start with "عاجل:" ("Breaking:").
 
 ## Models Compared
 
-- **AraBART** (`moussaKam/AraBART`)
+- **AraBART** 
 - **AraT5v2**
 - **mT5-small**
 
